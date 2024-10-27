@@ -1,0 +1,50 @@
+[
+  {
+    "children": [
+      {
+        "componentName": "header"
+      }
+    ],
+    "componentName": "containerHeader",
+    "noResize": true
+  },
+  {
+    "componentName": "containerBlank",
+    "noResize": true
+  },
+  {
+    "componentName": "containerBody-10/12",
+    "noResize": true,
+    "children": [
+      {
+        "componentName": "container-1/3",
+        "children": [
+          {
+            "componentName": "test"
+          },
+          {
+            "componentName": "test"
+          },
+          {
+            "componentName": "test"
+          }
+        ]
+      },
+      {
+        "componentName": "containerBlank",
+        "noResize": true
+      },
+      {
+        "componentName": "container-1/2",
+        "children": [
+          {
+            "componentName": "test"
+          },
+          {
+            "componentName": "test"
+          }
+        ]
+      }
+    ]
+  }
+]
